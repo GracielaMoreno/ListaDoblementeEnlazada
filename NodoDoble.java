@@ -1,7 +1,7 @@
-
+package epn;
 public class NodoDoble {
 
-　
+
 	int dato;
 	NodoDoble next;
 	NodoDoble ant;
@@ -21,7 +21,7 @@ public class NodoDoble {
 	public NodoDoble getNext() {
 		return next;
 	}
-	public void setNext(NodoDoble next) {
+	public void setNext(NodoDoble next){
 		this.next = next;
 	}
 	public NodoDoble getAnt() {
@@ -35,6 +35,6 @@ public class NodoDoble {
 		return dato;
 	}
 
-　
-	//buscar borrar
+
+	
 }
