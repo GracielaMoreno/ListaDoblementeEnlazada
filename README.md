@@ -1,4 +1,4 @@
 # ListaDoblementeEnlazada
-#alexandra macas
-#graciela moreno
+#Alexandra Macas
+#Graciela Moreno
  
