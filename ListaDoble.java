@@ -1,3 +1,4 @@
+package epn;
 public class ListaDoble {
 	NodoDoble primero;
 	NodoDoble ultimo;
@@ -188,13 +189,12 @@ public class ListaDoble {
 				informacion = prox.getDato();
 			}
 			return informacion;
-
-　
+	
 		}
 
 		return pos;
 
-　
+
 	}	
 
 	public int buscarP(int pos){
